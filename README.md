@@ -10,6 +10,11 @@ GE03 Documentation: https://github.com/arsmith781/Five-Guys/wiki/GE03-Documentat
 
 ***
 
+GE04 Project Board: https://github.com/users/arsmith781/projects/9
+
+GE04 Documentation: https://github.com/arsmith781/Five-Guys/wiki/GE04-Documention
+
+***
 
 Overall Documentation: https://github.com/arsmith781/Five-Guys/wiki 
 
