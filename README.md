@@ -16,6 +16,10 @@ GE04 Documentation: https://github.com/arsmith781/Five-Guys/wiki/GE04-Documentio
 
 ***
 
+Spring02 Documentation: https://github.com/arsmith781/Five-Guys/wiki/Sprint02-Team-Documentation
+
+***
+
 Overall Documentation: https://github.com/arsmith781/Five-Guys/wiki 
 
 Github wiki will be utilized for documentation. If external documentation is used (such as google docs) the wiki page relevant to the doc will hold the link to the external documention.
